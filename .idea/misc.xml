@@ -6,6 +6,7 @@
         <entry key="..\:/TasksReminder/app/src/main/res/menu/menu_home_contextual.xml" value="0.35555555555555557" />
         <entry key="..\:/TasksReminder/app/src/main/res/menu/menu_home_no_sort.xml" value="0.37135416666666665" />
         <entry key="..\:/TasksReminder/app/src/main/res/menu/menu_home_sort.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/ar556/StudioProjects/Location_based_reminder/app/src/main/res/layout/activity_login.xml" value="0.19010416666666666" />
         <entry key="app/src/main/res/drawable/settings.xml" value="0.1315" />
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.2520833333333333" />
         <entry key="app/src/main/res/layout/activity_add_habit.xml" value="0.2520833333333333" />
@@ -28,7 +29,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

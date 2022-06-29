@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name" translatable="false">Task Reminder</string>
+    <string name="app_name" translatable="false">Location Based Reminder App</string>
 
     /* About Activity */
     <string name="activity_about_toolbar_title">About</string>
